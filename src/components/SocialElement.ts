@@ -52,6 +52,7 @@ export default (editor: Editor, { coreMjmlModel, coreMjmlView }: ComponentPlugin
               { value: 'medium', name: 'Medium' },
               { value: 'dribbble', name: 'Dribbble' },
               { value: 'xing', name: 'Xing' },
+              { value: 'WhatsApp', name: 'WhatsApp' }
             ]
           },
           { name: 'src' },
